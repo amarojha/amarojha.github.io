@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "amar ojha"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Amar Ojha"
+description              : &description "PhD Student"
+url                      : https://carlsonrw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amarojha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,14 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Amar Ojha"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : ""
+  bio              : ""
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=amar+ojha"
   googlescholar    : "https://scholar.google.com/citations?user=wbKTa18AAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "amo80 [at] pitt [dot] edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/amarojha"
+  github           : "amarojha"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-1038-0225"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@aojha7"
+  twitter          : "aojha7"
   vine             :
   weibo            :
   xing             :
@@ -129,23 +126,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -179,6 +175,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -222,6 +221,10 @@ defaults:
   - scope:
       path: ""
       type: publications
+  # research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
@@ -255,20 +258,18 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
