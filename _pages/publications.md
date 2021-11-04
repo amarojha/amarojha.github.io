@@ -27,7 +27,7 @@ Ho, Teresi, Ojha, Walker, Kirshenbaum, Singh, & Gotlib (2021)
   
   
 <sub><b>Study Protocol for Teen Inflammation Glutamate Emotion Research (TIGER)</b>   
-Walker†, Teresi†, Weisenburger, Segarra, Ojha, Kulla, Sisk, Gu, Spielman, Rosenberg-Hasson, Maecker, Singh, Gotlib, & Ho (2020)  
+Walker<sup>†</sup>, Teresi<sup>†</sup>, Weisenburger, Segarra, Ojha, Kulla, Sisk, Gu, Spielman, Rosenberg-Hasson, Maecker, Singh, Gotlib, & Ho (2020)  
  *Frontiers in Human Neuroscience* [<b>[PDF]</b>](https://www.frontiersin.org/articles/10.3389/fnhum.2020.585512/full?field=&journalName=Frontiers_in_Human_Neuroscience&id=585512) </sub>
 
   
