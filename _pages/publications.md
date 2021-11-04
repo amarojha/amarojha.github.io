@@ -7,9 +7,9 @@ author_profile: true
  
 `preprints`  
 
-<sub><b>[<b>Structural brain alterations associated with suicidal thoughts and behaviors in young people: results across 21 international studies from the ENIGMA Suicidal Thoughts and Behaviours consortium</b>](https://www.medrxiv.org/content/10.1101/2021.09.27.21264068v1)</b>  
+<sub><b>Structural brain alterations associated with suicidal thoughts and behaviors in young people: results across 21 international studies from the ENIGMA Suicidal Thoughts and Behaviours consortium</b>
 van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Salminen, Ambrogi, Ayesa-Arriola, Banaj, Başgöze, Bauer, Blair, Blair, Brosch, Cheng, Colle, Connolly, Corruble, Couvy-Duchesne, Crespo-Facorro, Cullen, Dannlowski, Davey, Dohm, Fullerton, Saffet Gonul, Gotlib, Grotegerd, Hahn, Harrison, He, Hickie, Ho, Iorfino, Jansen, Jollant, Kircher, Klimes-Dougan, Klug, Leehr, Lippard, McLaughlin, Meinert, Miller, Mitchell, Mwangi, Nenadić, Ojha, Overs, Pfarr, Piras, Ringwald, Roberts, Romer, Sanches, Sheridan, Soares, Spalletta, Stein, Teresi, Tordesillas-Gutiérrez, Uyar-Demir, van der Wee, van der Werff, Vermeiren, Winter, Wu, Yang, Thompson, Rentería, Jahanshad, Blumberg, van Harmelen, & Schmaal
-
+ *medRxiv* [<b>[PDF]</b>](https://www.medrxiv.org/content/10.1101/2021.09.27.21264068v1) </sub>
   
   
  --- 
