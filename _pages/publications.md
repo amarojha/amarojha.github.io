@@ -35,5 +35,4 @@ Walker<sup>†</sup>, Teresi<sup>†</sup>, Weisenburger, Segarra, Ojha, Kulla, 
 Camacho, King, Ojha, Garcia, Sisk, Cichocki, Humphreys, & Gotlib (2020)  
  *Developmental Science* [<b>[PDF]</b>](https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.12928) </sub>
   
-
-<sub>You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=wbKTa18AAAAJ&hl=en&oi=ao).
+  
