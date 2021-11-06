@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Neuroscience PhD student at the University of Pittsburgh ([CNUP](https://www.cnup.pitt.edu/about) & [CNBC](https://www.cnbc.cmu.edu/)) working with [Bea Luna](https://lncd.pitt.edu/wp/) and [Cecile Ladouceur](https://www.candlab.pitt.edu/). Before Pitt, I worked as a post-bac Research Coordinator for two years with [Ian Gotlib](https://mood.stanford.edu/) at Stanford University. I completed my BA in Neuroscience and Philosophy at Bates College, ME.
+Hello! I'm a Neuroscience PhD student at the University of Pittsburgh ([CNUP](https://www.cnup.pitt.edu/about) & [CNBC](https://www.cnbc.cmu.edu/)) working with [Bea Luna](https://lncd.pitt.edu/wp/) and [Cecile Ladouceur](https://www.candlab.pitt.edu/) to study cognitive and affective development. Before Pitt, I worked as a post-bac Research Coordinator for two years with [Ian Gotlib](https://mood.stanford.edu/) at Stanford University. I completed my BA in Neuroscience and Philosophy at Bates College.
 
-I use neuroimaging techniques (e.g., sMRI, rsfMRI, MRS) to study the neurobiological mechanisms driving developmental processes. My goal is to characterize the neurobiology of cognitive control and emotion regulation as they mature across adolescence typically and transdiagnostically across psychiatric disorders. 
+I use neuroimaging techniques (e.g., sMRI, rsfMRI, MRS) to study the mechanisms driving developmental processes. I am interested in using these approaches to characterize the neurobiology of cognitive control, emotion regulation, and motivated behaviors as they mature across adolescence, both typically and transdiagnostically. My primary research strategy is to leverage large and/or multimodal datasets to sharpen our scientific understanding of the hetereogeneity of mental landscapes as they unfold across development in the hope of contributing to the advancement of the field of psychiatry as a biological science.
 
-To learn more about my work, check out my [publications](https://amarojha.github.io/publications/) page.
+To learn more about my work, check out my [publications](https://amarojha.github.io/publications/) page. For questions, feel free to contact me at amo80 [at] pitt [dot] edu  
