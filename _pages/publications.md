@@ -6,17 +6,17 @@ author_profile: true
 ---
  
 `submitted`  
-
-<sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>
-Ojha, Miller, King, Davis, Humphreys, & Gotlib 
- *PsyArXiv* (preprint) [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021psyarxiv.pdf) </sub>
  
-<sub><b>Social threat, fronto-cingulate-limbic morphometry, and symptom course in depressed adolescents: A longitudinal investigation</b> 
-Ojha, Teresi, Slavich, Gotlib, & Ho
+<sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>   
+Ojha, Miller, King, Davis, Humphreys, & Gotlib (2021)  
+ *PsyArXiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021psyarxiv.pdf) (preprint) </sub>
+ 
+<sub><b>Social threat, fronto-cingulate-limbic morphometry, and symptom course in depressed adolescents: A longitudinal investigation</b>   
+Ojha, Teresi, Slavich, Gotlib, & Ho (2021) </sub>
 
-<sub><b>Structural brain alterations associated with suicidal thoughts and behaviors in young people: results across 21 international studies from the ENIGMA Suicidal Thoughts and Behaviours consortium</b>
-van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Salminen, Ambrogi, Ayesa-Arriola, Banaj, Başgöze, Bauer, Blair, Blair, Brosch, Cheng, Colle, Connolly, Corruble, Couvy-Duchesne, Crespo-Facorro, Cullen, Dannlowski, Davey, Dohm, Fullerton, Saffet Gonul, Gotlib, Grotegerd, Hahn, Harrison, He, Hickie, Ho, Iorfino, Jansen, Jollant, Kircher, Klimes-Dougan, Klug, Leehr, Lippard, McLaughlin, Meinert, Miller, Mitchell, Mwangi, Nenadić, Ojha, Overs, Pfarr, Piras, Ringwald, Roberts, Romer, Sanches, Sheridan, Soares, Spalletta, Stein, Teresi, Tordesillas-Gutiérrez, Uyar-Demir, van der Wee, van der Werff, Vermeiren, Winter, Wu, Yang, Thompson, Rentería, Jahanshad, Blumberg, van Harmelen, & Schmaal 
- *medRxiv* (preprint) [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021medxriv.pdf) </sub>
+<sub><b>Structural brain alterations associated with suicidal thoughts and behaviors in young people: results across 21 international studies from the ENIGMA Suicidal Thoughts and Behaviours consortium</b>   
+van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Salminen, Ambrogi, Ayesa-Arriola, Banaj, Başgöze, Bauer, Blair, Blair, Brosch, Cheng, Colle, Connolly, Corruble, Couvy-Duchesne, Crespo-Facorro, Cullen, Dannlowski, Davey, Dohm, Fullerton, Saffet Gonul, Gotlib, Grotegerd, Hahn, Harrison, He, Hickie, Ho, Iorfino, Jansen, Jollant, Kircher, Klimes-Dougan, Klug, Leehr, Lippard, McLaughlin, Meinert, Miller, Mitchell, Mwangi, Nenadić, Ojha, Overs, Pfarr, Piras, Ringwald, Roberts, Romer, Sanches, Sheridan, Soares, Spalletta, Stein, Teresi, Tordesillas-Gutiérrez, Uyar-Demir, van der Wee, van der Werff, Vermeiren, Winter, Wu, Yang, Thompson, Rentería, Jahanshad, Blumberg, van Harmelen, & Schmaal (2021)  
+ *medRxiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021medxriv.pdf) (preprint) </sub>
   
  --- 
 
