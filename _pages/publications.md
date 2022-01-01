@@ -22,7 +22,7 @@ van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Sal
 
 `publications`
   
-<sub><b>Higher Levels of Pro-inflammatory Cytokines Are Associated With Higher Levels of Glutamate in the Anterior Cingulate Cortex in Depressed Adolescents</b>   
+<sub><b>Higher levels of pro-inflammatory cytokines are associated with higher levels of glutamate in the anterior cingulate cortex in depressed adolescents</b>   
 Ho, Teresi, Segarra, Ojha, Walker, Gu, Spielman, Sacchet, Jiang, Rosenberg-Hasson, Maecker, & Gotlib (2021)  
  *Frontiers in Psychiatry*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021fip.pdf) </sub>
   
@@ -32,7 +32,7 @@ Ho, Teresi, Ojha, Walker, Kirshenbaum, Singh, & Gotlib (2021)
  *Journal of Affective Disorders*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021jad.pdf) </sub>
   
   
-<sub><b>Study Protocol for Teen Inflammation Glutamate Emotion Research (TIGER)</b>   
+<sub><b>Study protocol for Teen Inflammation Glutamate Emotion Research (TIGER)</b>   
 Walker<sup>†</sup>, Teresi<sup>†</sup>, Weisenburger, Segarra, Ojha, Kulla, Sisk, Gu, Spielman, Rosenberg-Hasson, Maecker, Singh, Gotlib, & Ho (2020)  
  *Frontiers in Human Neuroscience* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2020fhn.pdf) </sub>
 
