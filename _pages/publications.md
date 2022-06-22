@@ -8,7 +8,7 @@ author_profile: true
 `submitted`  
 
 <sub><b>Puberty contributes to adolescent development of fronto-striatal functional connectivity supporting inhibitory control</b>   
-Ojha, Parr, Foran, Calabro, & Luna   
+<b>Ojha</b>, Parr, Foran, Calabro, & Luna   
  *BioArXiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022bioarxiv.pdf) (preprint) </sub>
 
 <sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>   
