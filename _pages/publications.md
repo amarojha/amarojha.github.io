@@ -8,7 +8,7 @@ author_profile: true
 `submitted`  
 
 <sub><b>Puberty contributes to adolescent development of fronto-striatal functional connectivity supporting inhibitory control</b>   
-<b>Ojha</b>, Parr, Foran, Calabro, & Luna   
+Ojha, Parr, Foran, Calabro, & Luna   
  *BioArXiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022bioarxiv.pdf) (preprint) </sub>
 
 <sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>   
@@ -22,6 +22,9 @@ van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Sal
 <sub><b>An open, analysis-ready, and quality controlled resource for pediatric white-matter research</b>
 Richie-Halford, Cieslak, Ai, Caffarra, Covitz, Franco, Karipidis, Kruper, Milham, Avelar-Pereira, Roy, Sydnor, Yeatman, The Fibr Community Science Consortium, Satterthwaite, Rokem 
 
+<sub><b>Global multi-site benchmark classification of major depressive disorder using machine learning on cortical and subcortical features of 5,365 participants from the ENIGMA MDD dataset</b>
+Belov, Erwin-Grabner, Gonul, Amod, Ojha, ... Schmaal, Thompson, & Goya-Madonado
+ *arXiv* [<b>[PDF]</b>](https://arxiv.org/pdf/2206.08122.pdf) (preprint) </sub>
   
  --- 
  
