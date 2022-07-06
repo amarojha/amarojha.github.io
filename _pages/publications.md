@@ -24,17 +24,17 @@ Belov, Erwin-Grabner, Gonul, Amod, Ojha, ... Schmaal, Thompson, & Goya-Madonado
  
 <sub><b>Social threat, fronto-cingulate-limbic morphometry, and symptom course in depressed adolescents: A longitudinal investigation</b>   
 Ojha, Teresi, Slavich, Gotlib, & Ho </sub>
- *Psychological Medicine*
+ *Psychological Medicine* </sub>
  
 <sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>   
-Ojha, Miller, King, Davis, Humphreys, & Gotlib   
+Ojha, Miller, King, Davis, Humphreys, & Gotlib </sub>   
  *PsyArXiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021psyarxiv.pdf) (preprint) </sub>
- *Developmental Psychobiology*
+ *Developmental Psychobiology* </sub>
  
 <sub><b>Structural brain alterations associated with suicidal thoughts and behaviors in young people: results across 21 international studies from the ENIGMA Suicidal Thoughts and Behaviours consortium</b>   
-van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Salminen, Ambrogi, Ayesa-Arriola, Banaj, Başgöze, Bauer, Blair, Blair, Brosch, Cheng, Colle, Connolly, Corruble, Couvy-Duchesne, Crespo-Facorro, Cullen, Dannlowski, Davey, Dohm, Fullerton, Saffet Gonul, Gotlib, Grotegerd, Hahn, Harrison, He, Hickie, Ho, Iorfino, Jansen, Jollant, Kircher, Klimes-Dougan, Klug, Leehr, Lippard, McLaughlin, Meinert, Miller, Mitchell, Mwangi, Nenadić, Ojha, Overs, Pfarr, Piras, Ringwald, Roberts, Romer, Sanches, Sheridan, Soares, Spalletta, Stein, Teresi, Tordesillas-Gutiérrez, Uyar-Demir, van der Wee, van der Werff, Vermeiren, Winter, Wu, Yang, Thompson, Rentería, Jahanshad, Blumberg, van Harmelen, & Schmaal   
+van Velzen, Dauvermann, Colic, Villa, Savage, Toenders, Zhu, Bright, Campos, Salminen, Ambrogi, Ayesa-Arriola, Banaj, Başgöze, Bauer, Blair, Blair, Brosch, Cheng, Colle, Connolly, Corruble, Couvy-Duchesne, Crespo-Facorro, Cullen, Dannlowski, Davey, Dohm, Fullerton, Saffet Gonul, Gotlib, Grotegerd, Hahn, Harrison, He, Hickie, Ho, Iorfino, Jansen, Jollant, Kircher, Klimes-Dougan, Klug, Leehr, Lippard, McLaughlin, Meinert, Miller, Mitchell, Mwangi, Nenadić, Ojha, Overs, Pfarr, Piras, Ringwald, Roberts, Romer, Sanches, Sheridan, Soares, Spalletta, Stein, Teresi, Tordesillas-Gutiérrez, Uyar-Demir, van der Wee, van der Werff, Vermeiren, Winter, Wu, Yang, Thompson, Rentería, Jahanshad, Blumberg, van Harmelen, & Schmaal </sub>   
  *medRxiv* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021medxriv.pdf) (preprint) </sub>
- *Molecular Psychiatry*
+ *Molecular Psychiatry* </sub>
  
  --- 
 
