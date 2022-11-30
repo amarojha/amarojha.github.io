@@ -9,6 +9,10 @@ author_profile: true
 
 `publications`
 
+<sub><b>Puberty contributes to adolescent development of fronto-striatal functional connectivity supporting inhibitory control</b>   
+Ojha, Parr, Foran, Calabro, & Luna (2022)  
+ *Developmental Cognitive Neuroscience*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022dcn_preproof.pdf) </sub>
+
 <sub><b>Social threat, fronto-cingulate-limbic morphometry, and symptom course in depressed adolescents: A longitudinal investigation</b>   
 Ojha, Teresi, Slavich, Gotlib, & Ho (2022)  
  *Psychological Medicine*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022psm.pdf) </sub>
