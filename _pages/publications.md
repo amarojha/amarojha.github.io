@@ -9,6 +9,10 @@ author_profile: true
 
 `publications`
 
+<sub><b>Fronto-amygdala resting state functional connectivity is associated with anxiety symptoms among adolescent girls more advanced in pubertal maturation</b>   
+Ladouceur, Henry, Ojha, Shirtcliff, & Silk (2023)  
+ *Developmental Cognitive Neuroscience*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023dcn.pdf) </sub>
+
 <sub><b>Puberty contributes to adolescent development of fronto-striatal functional connectivity supporting inhibitory control</b>   
 Ojha, Parr, Foran, Calabro, & Luna (2022)  
  *Developmental Cognitive Neuroscience*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022dcn.pdf) </sub>
