@@ -9,6 +9,10 @@ author_profile: true
 
 `publications`
 
+<sub><b>Multivariate and Regional Age-Related Change in Basal Ganglia Iron in Neonates</b>   
+Cabral, Calabro, Foran, Parr, Ojha, Rasmussen, Ceschin, Panigraphy, & Luna (2023)  
+ *Cerebral Cortex*  [<b>[bioRxiv]</b>](https://www.biorxiv.org/content/10.1101/2023.07.05.547821v2.abstract) </sub>
+
 <sub><b>Fronto-amygdala resting state functional connectivity is associated with anxiety symptoms among adolescent girls more advanced in pubertal maturation</b>   
 Ladouceur, Henry, Ojha, Shirtcliff, & Silk (2023)  
  *Developmental Cognitive Neuroscience*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023dcn.pdf) </sub>
