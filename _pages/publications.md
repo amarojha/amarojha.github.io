@@ -26,6 +26,11 @@ Ojha, Teresi, Slavich, Gotlib, & Ho (2022)
  *Psychological Medicine*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022psm.pdf) </sub>
  
  
+<sub><b>An analysis-ready and quality controlled resource for pediatric brain white-matter research</b>   
+Richie-Halford, Cieslak, Ai, Caffarra, Covitz, Franco, Karipidis, Kruper, Milham, Averlar-Pereira, Roy, Sydnor, Yearman, The Fibr Community Science Consortium, Satterthwaite, & Rokem, & Gotlib (2022)  
+ *Scientific Data*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022scidata.pdf) </sub>
+
+ 
 <sub><b>Empathy for others versus for one's child: Associations with mothers' brain activation during a social cognitive task and with their toddlers' functioning</b>   
 Ojha, Miller, King, Davis, Humphreys, & Gotlib (2022)  
  *Developmental Psychobiology*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022devpsybio.pdf) </sub>
