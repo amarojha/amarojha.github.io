@@ -27,7 +27,7 @@ Ojha, Teresi, Slavich, Gotlib, & Ho (2022)
  
  
 <sub><b>An analysis-ready and quality controlled resource for pediatric brain white-matter research</b>   
-Richie-Halford, Cieslak, Ai, Caffarra, Covitz, Franco, Karipidis, Kruper, Milham, Averlar-Pereira, Roy, Sydnor, Yearman, The Fibr Community Science Consortium, Satterthwaite, & Rokem, & Gotlib (2022)  
+Richie-Halford, Cieslak, Ai, Caffarra, Covitz, Franco, Karipidis, Kruper, Milham, Averlar-Pereira, Roy, Sydnor, Yearman, The Fibr Community Science Consortium, Satterthwaite, & Rokem (2022)  
  *Scientific Data*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022scidata.pdf) </sub>
 
  
