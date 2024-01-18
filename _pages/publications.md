@@ -9,6 +9,10 @@ author_profile: true
 
 `publications`
 
+<sub><b>Multi-site benchmark classification of major depressive disorder using machine learning on cortical and subcortical measures</b>   
+Belov, Erwin-Grabner, Aghajani ... Ojha ... Schmaal, Thompson, Goya-Maldonado, & the ENIGMA Major Depressive Disorder working group (2024)  
+ *Scientific Reports*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024scirep.pdf) </sub>
+
 <sub><b>Multivariate and Regional Age-Related Change in Basal Ganglia Iron in Neonates</b>   
 Cabral, Calabro, Foran, Parr, Ojha, Rasmussen, Ceschin, Panigraphy, & Luna (2023)  
  *Cerebral Cortex*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023cercor.pdf) </sub>
