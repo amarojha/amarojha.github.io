@@ -9,6 +9,14 @@ author_profile: true
 
 `publications`
 
+<sub><b>Altered Lateral Prefrontal Cortex Functioning During Emotional Interference Resistance Is Associated With Affect Lability in Adults With Persisting Symptoms of Attention-Deficit/Hyperactivity Disorder From Childhood</b>   
+Ojha, Jones, Henry, Versace, Lindstrom, Gnagy, Joseph, Molina<sup>†</sup>, & Ladouceur<sup>†</sup> (2023)  
+ *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* </sub>
+
+<sub><b>Adolescent neurocognitive development and decision-making abilities regarding gender-affirming care</b>   
+Ravindranath<sup>†</sup>, Perica<sup>†</sup>, Parr, Ojha, McKeon, Montano, Ullendorf, Luna, & Edmiston (2024)  
+ *Developmental Cognitive Neuroscience*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024dcn.pdf) </sub>
+
 <sub><b>Multi-site benchmark classification of major depressive disorder using machine learning on cortical and subcortical measures</b>   
 Belov, Erwin-Grabner, Aghajani, Aleman, Amod, Basgoze, Benedetti, Besteher, Bülow, Ching, Connolly, Cullen, Davey, Dima, Dols, Evans, Fu, Saffet Gonul, Gotlib, Grabe, Groenewold, Hamilton, Harrison, Ho,  Mwangi, Jaworska, Jahanshad, Klimes-Dougan, Koopowitz, Lancaster, Li, Linden, MacMaster, Mehler, Melloni, Mueller, Ojha, Oudega, Pozzi, Reneman, Sacchet, Sämann, Schrantee, Sim, Soares,  Stein, Thomopoulos, Uyar-Demir, van der Wee, van der Werff, Völzke,  Whittle, Wittfeld, Wright, Wu, Yang, Zarate, Veltman, Schmaal, Thompson, Goya-Maldonado, & the ENIGMA Major Depressive Disorder working group (2024)  
  *Scientific Reports*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024scirep.pdf) </sub>
