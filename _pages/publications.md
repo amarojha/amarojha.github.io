@@ -10,7 +10,7 @@ author_profile: true
 `publications`
 
 <sub><b>Altered Lateral Prefrontal Cortex Functioning During Emotional Interference Resistance Is Associated With Affect Lability in Adults With Persisting Symptoms of Attention-Deficit/Hyperactivity Disorder From Childhood</b>   
-Ojha, Jones, Henry, Versace, Lindstrom, Gnagy, Joseph, Molina<sup>†</sup>, & Ladouceur<sup>†</sup> (2023)  
+Ojha, Jones, Henry, Versace, Lindstrom, Gnagy, Joseph, Molina<sup>†</sup>, & Ladouceur<sup>†</sup> (2024)  
  *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* </sub>
 
 <sub><b>Adolescent neurocognitive development and decision-making abilities regarding gender-affirming care</b>   
