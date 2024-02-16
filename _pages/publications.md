@@ -21,7 +21,7 @@ Ravindranath<sup>†</sup>, Perica<sup>†</sup>, Parr, Ojha, McKeon, Montano, U
 Belov, Erwin-Grabner, Aghajani, Aleman, Amod, Basgoze, Benedetti, Besteher, Bülow, Ching, Connolly, Cullen, Davey, Dima, Dols, Evans, Fu, Saffet Gonul, Gotlib, Grabe, Groenewold, Hamilton, Harrison, Ho,  Mwangi, Jaworska, Jahanshad, Klimes-Dougan, Koopowitz, Lancaster, Li, Linden, MacMaster, Mehler, Melloni, Mueller, Ojha, Oudega, Pozzi, Reneman, Sacchet, Sämann, Schrantee, Sim, Soares,  Stein, Thomopoulos, Uyar-Demir, van der Wee, van der Werff, Völzke,  Whittle, Wittfeld, Wright, Wu, Yang, Zarate, Veltman, Schmaal, Thompson, Goya-Maldonado, & the ENIGMA Major Depressive Disorder working group (2024)  
  *Scientific Reports*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024scirep.pdf) </sub>
 
-<sub><b>Multivariate and Regional Age-Related Change in Basal Ganglia Iron in Neonates</b>   
+<sub><b>Multivariate and regional age-related change in basal ganglia iron in neonates</b>   
 Cabral, Calabro, Foran, Parr, Ojha, Rasmussen, Ceschin, Panigraphy, & Luna (2023)  
  *Cerebral Cortex*  [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023cercor.pdf) </sub>
 
