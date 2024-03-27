@@ -9,7 +9,7 @@ author_profile: true
 
 `publications`
 
-<sub><b>Altered Lateral Prefrontal Cortex Functioning During Emotional Interference Resistance Is Associated With Affect Lability in Adults With Persisting Symptoms of Attention-Deficit/Hyperactivity Disorder From Childhood</b>   
+<sub><b>Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood</b>   
 Ojha, Jones, Henry, Versace, Lindstrom, Gnagy, Joseph, Molina<sup>†</sup>, & Ladouceur<sup>†</sup> (2024)  
  *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* </sub>
 
