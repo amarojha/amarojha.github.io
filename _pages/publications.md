@@ -9,6 +9,8 @@ author_profile: true
 
 `publications`
 
+<sub><b>Ojha, A.</b> , Jones, N.P., Henry, T., Versace, A., Lindstrom, R., Gnagy, E.M., Joseph, H.M., Molina, B.S.G., Ladouceur, C.D. (in press). "Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood." Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 
+
 <sub><b>Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood</b>   
 Ojha, Jones, Henry, Versace, Lindstrom, Gnagy, Joseph, Molina<sup>†</sup>, & Ladouceur<sup>†</sup> (2024)  
  *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* </sub>
