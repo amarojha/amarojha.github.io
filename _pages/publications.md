@@ -8,10 +8,6 @@ author_profile: true
  --- 
 
 
-
-`publications`
-
-
 <sub><b>Ojha, A.</b>, Jones, N.P., Henry, T., Versace, A., Lindstrom, R., Gnagy, E.M., Joseph, H.M., Molina, B.S.G.<sup>†</sup>, Ladouceur, C.D.<sup>†</sup> (in press). "Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood." *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* 
 
 <sub>Ravindranath, O.<sup>†</sup>, Perica, M.I.<sup>†</sup>, Parr, A.P., <b>Ojha, A.</b>, McKeon, S.D., Montano, G., Ullendorf, N., Luna, B., Edmiston, E.K. (2024). "Adolescent neurocognitive development and decision-making abilities regarding gender-affirming care." *Developmental Cognitive Neuroscience*, 101351. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024dcn.pdf) <sub>
