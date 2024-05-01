@@ -7,6 +7,7 @@ author_profile: true
 
  --- 
 
+<b>2024</b>
 
 <sub><b>Ojha, A.</b>, Jones, N.P., Henry, T., Versace, A., Lindstrom, R., Gnagy, E.M., Joseph, H.M., Molina, B.S.G.<sup>†</sup>, Ladouceur, C.D.<sup>†</sup> (in press). "Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood." *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024bpcnni.pdf) <sub>
 
@@ -14,9 +15,13 @@ author_profile: true
 
 <sub>Belov, V., Erwin-Grabner, T., Aghajani, M., Aleman, A., Amod, A.R., Basgoze, Z., Benedetti, F., Besteher, B., Bülow, R., Ching, C.R.K., Connolly, C.G., Cullen, K., Davey, C.G., Dima, D., Dols, A., Evans, J.W., Fu, C.H.Y., Saffet Gonul, A., Gotlib, I.H., Grabe, H.J., Groenewold, N., Hamilton, J.P., Harrison, B.J., Ho, T.C., Mwangi, B., Jaworska, N., Jahanshad, N., Klimes-Dougan, B., Koopowitz, S., Lancaster, T., Li, M., Linden, D.E.J., MacMaster, F.P., Mehler, D.M.A., Melloni, E., Mueller, B.A., <b>Ojha, A.</b>, Oudega, M.L., Pozzi, E., Reneman, L., Sacchet, M.D., Sämann, P.G., Schrantee, A., Sim, K., Soares, J.C., Stein, D.J., Thomopoulos, S.I., Uyar-Demir, A., van der Wee, N.J.A., van der Werff, S.J.A., Völzke, H., Whittle, S., Wittfeld, S., Wright, M.J., Wu, M., Yang, T.T., Zarate, C., Veltman, D.J., Schmaal, L., Thompson, P.M., Goya-Maldonado, R., & the ENIGMA Major Depressive Disorder working group (2024). “Multi-site benchmark classification of major depressive disorder using machine learning on cortical and subcortical measures.” *Scientific Reports*, 14(1), 1084. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024scirep.pdf) </sub>
 
+<b>2023</b>
+
 <sub>Cabral, L., Calabro, F., Foran, W., Parr, A., <b>Ojha, A.</b>, Rasmussen J., Ceschin, R., Panigrahy, A., Luna, B. (2023). “Multivariate and regional age-related change in basal ganglia iron in neonates.” *Cerebral Cortex*, 34(1), bhad456. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023cercor.pdf) </sub>
 
 <sub>Ladouceur, C.D., Henry, T., <b>Ojha, A.</b>, Shirtcliff, E.A., Silk, J.S. (2023). “Frontoamygdala resting state functional connectivity is associated with anxiety symptoms among adolescent girls more advanced in pubertal maturation.” *Developmental Cognitive Neuroscience*, 60, 101236. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2023dcn.pdf) </sub>
+
+<b>2022</b>
 
 <sub><b>Ojha, A.</b>, Parr, A., Foran, W., Calabro, F., Luna, B. (2022). “Puberty contributes to adolescent development of fronto-striatal functional connectivity supporting inhibitory control." *Developmental Cognitive Neuroscience*, 58, 101183. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022dcn.pdf) </sub>
 
@@ -28,10 +33,16 @@ author_profile: true
 
 <sub><b>Ojha, A.</b>, Miller, J.G., King, L.S., Davis, E.G., Humphreys, K.L., Gotlib, I.H. (2022). “Dispositional and parental empathy are differentially associated with mothers’ brain activation and toddlers’ social behavior.” *Developmental Psychobiology*, 64, e22313. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2022devpsybio.pdf) </sub>
 
+<b>2021</b>
+
 <sub>Ho, T.C., Teresi, G.I., Segarra, J.R., <b>Ojha, A.</b>, Walker, J.C., Gu, M., Spielman, D.M., Sacchet, M.D., Jiang, F., Rosenberg-Hasson, Y., Maecker, H.T., Singh, M.K., Gotlib, I.H. (2021). “Higher levels of pro-inflammatory cytokines are associated with higher levels of glutamate in the anterior cingulate cortex in depressed adolescents.” *Frontiers in Psychiatry*, 12. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021fip.pdf) </sub>
+
+<b>2020</b>
 
 <sub>Ho, T.C., Teresi, G.I., <b>Ojha, A.</b>, Walker, J.C., Kirshenbaum, J.S., Singh, M.K., Gotlib, I.H. (2020). “Smaller caudate gray matter volume is associated with greater implicit suicidal ideation in depressed adolescents.” *Journal of Affective Disorders*, 278, 650-657. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2021jad.pdf) </sub>
 
 <sub>Walker, J.C., Teresi, G.I., Weisenburger, R.L., Segarra, J.R., <b>Ojha, A.</b>, Kulla, A., Sisk, L., Gu, M., Spielman, D.M., Rosenberg-Hasson, Y., Maecker, H.T., Singh, M.K., Gotlib, I.H., Ho, T.C. (2020). “Study protocol for Teen Inflammation Glutamate Emotion Research (TIGER).” *Frontiers in Human Neuroscience*, 14, 414. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2020fhn.pdf) </sub>
+
+<b>2019</b>
 
 <sub>Camacho, M.C., King, L.S., <b>Ojha, A.</b>, Garcia, C.M., Sisk, L.M., Cichocki, A.C., Humphreys, K.L., Gotlib, I.H. (2019). “Cerebral blood flow in 5- to 8-month-olds: Regional tissue maturity is associated with infant affect.” *Developmental Science*, 23(5), e12928. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2019devsci.pdf) </sub>
