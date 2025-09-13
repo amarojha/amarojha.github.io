@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Neuroscience PhD candidate at the University of Pittsburgh ([CNUP](https://www.cnup.pitt.edu/about) & [CNBC](https://www.cnbc.cmu.edu/)) working with [Bea Luna](https://lncd.pitt.edu/wp/) and [Cecile Ladouceur](https://www.candlab.pitt.edu/) to study cognitive and affective development. Before Pitt, I worked as a Research Coordinator for two years with [Ian Gotlib](https://mood.stanford.edu/) at Stanford University investigating the effects of early life stress on neurodevelopment and mood disorders using (f)MRI. I completed my BA in Neuroscience and Philosophy at Bates College.
+Hello! I'm a Neuroscience PhD candidate at the University of Pittsburgh ([CNUP](https://www.cnup.pitt.edu/about) & [CNBC](https://www.cnbc.cmu.edu/)) working with [Bea Luna](https://lncd.pitt.edu/wp/) and [Cecile Ladouceur](https://www.candlab.pitt.edu/) to study the development of affective and cognitive control processes, typically and transdiagnostically. My research is primarily focused on characterizing neurobiological mechanisms of plasticity that enable mesocorticolimbic circuitry to adapt across development to support goal-directed, motivated behaviors. My work integrates recent technical advances in human neuroimaging with an understanding of development from neurobiology, psychology, and evolutionary history to characterize neuropsychiatric risk and inform potential therapeutic targets. 
 
-Currently, I use neuroimaging techniques (e.g., sMRI, rsfMRI, MRS) to study the mechanisms underlying the neurodevelopment of cognitive control, emotion regulation, and motivated behaviors, primarily in adolescents, both typically and transdiagnostically. 
+Before Pitt, I worked as a Research Coordinator for two years with [Ian Gotlib](https://mood.stanford.edu/) at Stanford University investigating the effects of early life stress on neurodevelopment and mood disorders using (f)MRI. I completed my BA in Neuroscience and Philosophy at Bates College. 
 
 Feel free to reach out to me with questions at amo80 [at] pitt [dot] edu  
