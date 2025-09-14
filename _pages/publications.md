@@ -6,12 +6,16 @@ author_profile: true
 ---
 
  --- 
+ 
+<b>2025</b>
+
+<sub><b>Ojha, A.</b>, Foran, W., Calabro, F.J., Sydnor, V.J., Petrie, D.J., Parr, A.C., Famalette, A., Phang, N., Sista, A., Sorrells, S.F., Luna, B. (2025). "Human amygdala nuclei show distinct developmental trajectories from adolescence to adulthood in functional integration with prefrontal circuitry." *Cell Reports*, *44*(9) [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025cellrep.pdf) <sub>
 
 <b>2024</b>
 
 <sub>Tse, N.Y., Ratheesh, A., Tian, Y.E., Connolly, C.G., Davey, C.G., Ganesan, S., Gotlib, I.H., Harrison, B.J., Han, L.K.M., Ho, T.C., Jamieson, A.J., Kirshenbaum, J.S., Liu, Y., Ma, X., <b>Ojha, A.</b>, Qiu, J., Sacchet, M.D., Schmaal, L., Simmons, A.N., Suckling, J., Wei, D., Yang, T.T., Tang, X., Cash, R.F.H., Zalesky, A. (accepted). "A mega-analysis of functional connectivity and network abnormalities in youth depression." *Nature Mental Health*, 1-14 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024nmh.pdf) <sub>
 
-<sub><b>Ojha, A.</b>, Jones, N.P., Henry, T., Versace, A., Lindstrom, R., Gnagy, E.M., Joseph, H.M., Molina, B.S.G.<sup>†</sup>, Ladouceur, C.D.<sup>†</sup> (2024). "Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood." *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, *9(6)*, 588-596 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024bpcnni.pdf) <sub>
+<sub><b>Ojha, A.</b>, Jones, N.P., Henry, T., Versace, A., Lindstrom, R., Gnagy, E.M., Joseph, H.M., Molina, B.S.G.<sup>†</sup>, Ladouceur, C.D.<sup>†</sup> (2024). "Altered lateral prefrontal cortex functioning during emotional interference resistance is associated with affect lability in adults with persisting symptoms of ADHD from childhood." *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, *9*(6), 588-596 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024bpcnni.pdf) <sub>
 
 <sub>Ravindranath, O.<sup>†</sup>, Perica, M.I.<sup>†</sup>, Parr, A.P., <b>Ojha, A.</b>, McKeon, S.D., Montano, G., Ullendorf, N., Luna, B., Edmiston, E.K. (2024). "Adolescent neurocognitive development and decision-making abilities regarding gender-affirming care." *Developmental Cognitive Neuroscience*, 101351. [<b>[PDF]</b>](https://amarojha.github.io/_pages/2024dcn.pdf) <sub>
 
