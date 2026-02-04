@@ -6,12 +6,14 @@ author_profile: true
 ---
 
  --- 
- 
-<b>2025</b>
 
 <sub>Sydnor, V.J., <b>Ojha, A.</b>, Larsen, B., Martinez, A., Calabro, F.J., Luna, B. (2025). "Investigating hierarchical critical periods in human neurodevelopment." *Neuropsychopharmacology*, 1-19 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025npp.pdf) <sub>
 
 <sub><b>Ojha, A.</b>, Foran, W., Calabro, F.J., Sydnor, V.J., Petrie, D.J., Parr, A.C., Famalette, A., Phang, N., Sista, A., Sorrells, S.F., Luna, B. (2025). "Human amygdala nuclei show distinct developmental trajectories from adolescence to adulthood in functional integration with prefrontal circuitry." *Cell Reports*, *44*(9) [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025cellrep.pdf) <sub>
+
+<sub>Goya-Maldonado, R., Erwin-Grabner, T., Zeng, L, Ching, C.R.K., Aleman, A., Amod, A.R., Basgoze, Z., Benedetti, F., Besteher, B., Brosch, K., Bülow, R., Colle, R., Connolly, C.G., Corruble, E., Couvy-Duchesne, B., Cullen, K., Dannlowski, U., Davey, C.G., Dols, A., Ernsting, J., Evans, J.W., Fisch, L., Fuentes-Claramonte, P., Gonul, A.S., Gotilb, I.H., Grabe, H.J., Groenewold, N.A., Grotegerd, D., Hahn, T., Hamilton, J.P., Han, L.K.M., Harrison, B.J., Ho, T.C., Jahanshad, N., Jamieson, A.J., Karuk, A., Kircher, T., Klimes-Dougan, B.,
+Koopowitz, S., Lancaster T., Leenings, R., Li, M., Linden, D..J., MacMaster, F.P., Mehler, D.M.A., Meinert, S., Melloni, E., Mueller, B.A., Mwangi, B., Nenadić, I., <b>Ojha, A.</b>, Okamoto, Y., Oudega, M.L., Penninx, B.W.J.H., Poletti, S., PomarolClotet, E., Portella, M.J., Pozzi, E., Radua, J., Rodríguez-Cano, E., Sacchet, M.D., Salvador, R., Schrantee, A., Sim, K., Soares, J.C., Solanes, A., Stein, D.J., Stein, F., Stolicyn, A., Thomopoulos, S.I., Toenders, Y.J., Uyar-Demir, A., Vieta, E., Vives-Gilabert, Y., Völzke, H., Walter, M., Whalley, H.C., Whittle, S., Winter, N., Wittfeld, K., Wright, M.J., Wu, M., Yang, T.T., Zarate, C., Veltman, D.J., Schmaal, L., Thompson, P.M., the ENIGMA Major Depressive Disorder working group. (2025). “Classification of major depressive disorder using vertex-wise brain sulcal depth, curvature, and thickness with a deep and a shallow learning
+model.” *Molecular Psychiatry*, 1-13 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025molpsych.pdf) <sub>
 
 <b>2024</b>
 
