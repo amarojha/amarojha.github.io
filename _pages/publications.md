@@ -7,6 +7,8 @@ author_profile: true
 
  --- 
 
+<sub><b>Ojha, A.</b>, Henry, T.R., Jones, N.P., Shirtcliff, E.A., Ladouceur, C.D. (2026). "Mesocorticolimbic connectivity and motivational sensitivity: sex-specific effects of puberty in early adolescence." *Neuropsychopharmacology*, [<b>[PDF]</b>](https://amarojha.github.io/_pages/2026npp.pdf) <sub> 
+
 <sub>Sydnor, V.J., <b>Ojha, A.</b>, Larsen, B., Martinez, A., Calabro, F.J., Luna, B. (2025). "Investigating hierarchical critical periods in human neurodevelopment." *Neuropsychopharmacology*, 1-19 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025npp.pdf) <sub>
 
 <sub><b>Ojha, A.</b>, Foran, W., Calabro, F.J., Sydnor, V.J., Petrie, D.J., Parr, A.C., Famalette, A., Phang, N., Sista, A., Sorrells, S.F., Luna, B. (2025). "Human amygdala nuclei show distinct developmental trajectories from adolescence to adulthood in functional integration with prefrontal circuitry." *Cell Reports*, *44*(9) [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025cellrep.pdf) <sub>
