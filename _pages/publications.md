@@ -7,7 +7,13 @@ author_profile: true
 
  --- 
 
-<sub><b>Ojha, A.</b>, Henry, T.R., Jones, N.P., Shirtcliff, E.A., Ladouceur, C.D. (2026). "Mesocorticolimbic connectivity and motivational sensitivity: sex-specific effects of puberty in early adolescence." *Neuropsychopharmacology*, [<b>[PDF]</b>](https://amarojha.github.io/_pages/2026npp.pdf) <sub> 
+<b>2026</b>
+
+<sub><b>Ojha, A.</b>, Henry, T.R., Jones, N.P., Shirtcliff, E.A., Ladouceur, C.D. (in press). "Mesocorticolimbic connectivity and motivational sensitivity: sex-specific effects of puberty in early adolescence." *Neuropsychopharmacology*, [<b>[PDF]</b>](https://amarojha.github.io/_pages/2026npp.pdf) <sub> 
+
+<sub>Wang, H.R., Liu, Z., Pozzi, E., Hussain, A., Sigar, P., Abdallah, C., Alexander, N., Baker, J.T., Bauer, J., Blackford, J., Cisler, J.M., Connolly, C.G., Cotton, A., Daniels, J., Dannlowski, U., Densmore, M., deRoon-Cassini, T., Dima, D., Du Plessis, S., Etkin, A., Fani, N., Fisch, L., Fitzgerald, J., Frodl, T., Fu, C., Gonul, A.S., Gordon, E., Gotlib, I., Goya-Maldonado, R., Groenewold, N.A., Grotegerd, D., Hahn, T., Hamilton, P., Han, L., Harpaz-Rotem, I., Haswell, C., Herringa, R., Herzog, J., Ipser, J., Jahanshad, N., Jovanovic, T., Kaufman, M., Kircher, T., Konowski, M., Koopowitz, S-M., Krug, A., Krystal, J., Lanius, R., Larson, C., Lazarov, A., Lebois, L., Leehr, E., Levy, I., Li, M., Manthey, A., Maron-Katz, A., McIntosh, A., McLaughlin, K., Meinert, S., Mwangi, B., Nelson, S.M., Nenadić, I., Neria, Y., Neufeld, R., <b>Ojha, A.</b>, Olatunji, B., Olson, E., Opel, N., Peverill, M., Ressler, K., Ross, M., Rosso, I., Sacchet, M., Sambrook, K., Schmahl, C., Seedat, S., Shenton, M., Sicorello, M., Sierk, A., Soares, J.C., Stein, D.J, Stein, F., Stein, M., Suarez-Jimenez, B., Théberge, J., Thomopoulos, S.I., Tomas, C., Usemann, P., van Den Huevel, L.L., van Rooij, S., Walter, H., Walter, M., Wang, X., Whalley, H., Winter, N.E., Wu, M-J., Xie, H., Yang, T., Zhu, X., Zilcha-Mano, S., Zunta-Soares, G.B., Frangou, S., Thompson, P., Salminen, L., Sun, D., Morey, R., Stevens, J., Schmaal, L., Ho, T.C. (in press). "Childhood maltreatment and deviations from normative brain structure: A mega-analysis of 3,711 individuals from the ENIGMA MDD and ENIGMA PTSD working groups." *Biological Psychiatry*, [<b>[PDF]</b>](https://amarojha.github.io/_pages/2026bp.pdf) <sub> 
+
+<b>2025</b>
 
 <sub>Sydnor, V.J., <b>Ojha, A.</b>, Larsen, B., Martinez, A., Calabro, F.J., Luna, B. (2025). "Investigating hierarchical critical periods in human neurodevelopment." *Neuropsychopharmacology*, 1-19 [<b>[PDF]</b>](https://amarojha.github.io/_pages/2025npp.pdf) <sub>
 
