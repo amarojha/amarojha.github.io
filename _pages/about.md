@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a neuroscientist working with [Dr. Arielle Keller](https://appliedcognitionlab.psychology.uconn.edu/) at the University of Connecticut as a Postdoctoral Research Associate. I am broadly interested in understanding how early life experiences shape the neurodevelopment of brain circuits supporting self-regulation, such as our ability to control our thoughts, feelings, and behaviors. My research makes use of interdisciplinary methods, including multimodal neuroimaging approaches, cognitive and affective science frameworks, and computational modeling of transdiagnostic psychiatric phenomena.   
+Hello! I'm a neuroscientist working with [Dr. Arielle Keller](https://appliedcognitionlab.psychology.uconn.edu/) at the University of Connecticut as a Postdoctoral Research Associate. I am broadly interested in understanding how early life experiences shape the neurodevelopment of brain circuits supporting self-regulation (our ability to control our thoughts, feelings, and behaviors). My research makes use of interdisciplinary methods, including multimodal neuroimaging approaches, cognitive and affective science frameworks, and computational modeling of transdiagnostic psychiatric phenomena.   
 
 The goal of my work is to (1) characterize the brain circuits supporting self-regulatory processes during critical periods of neurodevelopment, (2) identify reliable brain-based biomarkers related to transdiagnostic neuropsychiatric risk, and (3) advance precision psychiatric medicine by leveraging personalized neuroscience to inform anatomically precise and developmentally sensitive therapeutic targets.
 
